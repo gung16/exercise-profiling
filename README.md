@@ -1,4 +1,4 @@
-Link of Images from Test plan Jmeter:
+Link of Images from Test plan Jmeter and Profiling (before and after optimization)
 https://docs.google.com/document/d/1L_bxmUttOGEzmuhvshGNQ1dW27Qj7sBxqY2Xd6iuFnI/edit?usp=sharing
 
 # Question 1
